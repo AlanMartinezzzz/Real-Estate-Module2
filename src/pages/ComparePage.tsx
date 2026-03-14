@@ -15,7 +15,7 @@ interface ComparePageProps {
 export function ComparePage({ compareList, onRemove, onClear }: ComparePageProps) {
   const navigate = useNavigate();
 
-  // Lógica para encontrar los "mejores" valores y resaltarlos
+  // Lógica para encontrar los mejore valores y resaltarlos en la comparacionn
   const bestValues = useMemo(() => {
     if (compareList.length === 0) return null;
     return {
