@@ -1,3 +1,21 @@
+Alan Martinez ------- 24000683
+VIDEO EXPLICACION:
+https://youtu.be/tf8XPsXIe8Y
+
+//////////////////
+//////////////////
+//////////////////
+//////////////////
+//////////////////
+//////////////////
+//////////////////
+
+
+
+
+
+
+
 # Módulo 2 - Real Estate React
 
 ## Frontend Single Page Application
@@ -340,5 +358,6 @@ Este proyecto es de uso educativo y fue creado como material de aprendizaje.
 ## Créditos
 
 > Este proyecto ha sido generado usando Claude Code y adaptado con fines educativos por Adrián Catalán.
-#   R e a l - E s t a t e - M o d u l e 2  
+#   R e a l - E s t a t e - M o d u l e 2 
+ 
  
